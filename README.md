@@ -1,2 +1,3 @@
 # apna-demo
-This is my first GitHub project
+This is my first Git repository.
+Author: Bapurao Kadam
